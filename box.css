@@ -1,0 +1,112 @@
+div{
+    width: 150px;
+    height: 200px;
+    border: 3px rebeccapurple solid;
+}
+#b1{
+    margin-left: 390px ;
+    margin-top: 130px;
+    padding: 10px;
+    background-color: rebeccapurple;
+}
+#b2{
+    margin-left: 586px;
+    margin-top: -207px;
+    background-color: blueviolet;
+}
+#b3{
+    margin-left: 762px;
+    margin-top: -207px; 
+    background-color: aliceblue; 
+}
+#b4{
+    margin-left: 935px;
+    margin-top: -207px;
+    background-color: antiquewhite;
+}
+#b5{
+    margin-left: 1105px;
+    margin-top: -207px;
+    background-color: aqua;
+}
+#b6{
+    margin-left: 220px;
+    margin-top: 40px;
+    background-color: aquamarine;
+}
+#b7{
+    margin-left: 400px;
+    margin-top: -208px;
+    background-color: azure;
+}
+#b8{ margin-left: 586px;
+    margin-top: -208px;
+background-color: bisque;
+}
+#b9{
+    margin-left: 765px;
+    margin-top: -208px;
+    background-color: black;
+}
+#b10{
+    margin-left: 935px;
+    margin-top: -207px;
+    background-color: blanchedalmond;
+}
+#b11{ margin-left: 1105px;
+    margin-top: -207px;
+background-color: blue;
+}
+#b12{
+    margin-left: 1280px;
+    margin-top: -207px;
+    background-color: blueviolet;
+}
+#b13{
+    margin-left: 50px;
+    margin-top: 30px;
+    background-color: brown;
+}
+#b14{
+    margin-left: 220px;
+    margin-top: -207px;
+    background-color: burlywood;
+}
+#b15{
+    margin-left: 400px;
+    margin-top: -207px;
+    background-color: cadetblue;
+}
+#b16{
+    margin-left: 586px;
+    margin-top: -207px;
+    background-color: chartreuse;
+}
+#b17{
+    margin-left: 765px;
+    margin-top: -207px;
+    background-color: chocolate;
+}
+#b18{
+    margin-left: 935px;
+    margin-top: -207px;
+    background-color: coral;
+}
+#b19{
+    margin-left: 1105px;
+    margin-top: -207px;
+    background-color: cornflowerblue;
+}
+#b20{
+    margin-left: 1280px;
+    margin-top: -207px;
+    background-color: crimson;
+}
+#b21{
+    margin-left: 1455px;
+    margin-top: -207px;
+    background-color: cyan;
+}
+body{
+    background-color: black;
+}
